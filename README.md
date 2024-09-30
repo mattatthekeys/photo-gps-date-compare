@@ -5,7 +5,7 @@ Make sure you have virtualenv installed, then activate the environment and insta
 ```
 python -m venv .venv
 source .venv/bin/activate
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 Drop one set of photos into `photos1` and the other set into `photos2`.
